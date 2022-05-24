@@ -1,6 +1,6 @@
 <template>
-  <div class="container ">                 
-    
+  <div class="container bg-Noirr ">                 
+    <p class="text-white">test meldryck pour  ilkay</p>
   </div>
 </template>
 
