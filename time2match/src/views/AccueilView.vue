@@ -1,9 +1,9 @@
-<template >
-  <div class="container bg-slate-900 ">                 
-    <p>test</p>
+<template>
+  <div class="container ">                 
+    
   </div>
 </template>
-  
+
 <script> 
 
 export default {

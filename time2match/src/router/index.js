@@ -18,7 +18,7 @@ const router = createRouter({
     { path: '/sports', name: 'SportsView', component: SportsView },
     { path: '/partenaires', name: 'PartenairesView', component: PartenairesView },
     { path: '/apropos', name: 'aProposView', component: aProposView },
-    { path: '/mentionslegales', name: 'MentionsLegalesViewt', component: MentionsLegalesView },
+    { path: '/mentionslegales', name: 'MentionsLegalesView', component: MentionsLegalesView },
     { path: '/pageco', name: 'PageCoView', component: PageCoView },
   ]
 })
