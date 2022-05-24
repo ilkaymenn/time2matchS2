@@ -9,7 +9,7 @@ import { RouterLink, RouterView } from 'vue-router'
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                           <div class="navbar-brand bg-Orangee flex place-content-between">
                             
-                            <RouterLink to="/">Accueil</RouterLink>
+                            <RouterLink to="/">Accueill</RouterLink>
                             <RouterLink to="/terrains">Terrains</RouterLink>
                             <RouterLink to="/parties">Parties</RouterLink>
                             <RouterLink to="/sports">Sports</RouterLink>
