@@ -15,12 +15,7 @@
 <script> 
 
 export default {
-  name:'AccueilView',
-  data(){
-    return {
-
-    }
-  },
+  
   props:{
 
       image: {
