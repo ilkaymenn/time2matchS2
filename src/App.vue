@@ -11,8 +11,8 @@ import LogoSeco from './components/menu/logo-seco.vue';
 
 <template>
     <div class="container bg-Noirr text-Blancc">
-      <nav class="navbar navbar-expand-lg navbar-dark">
-                          <div class="navbar-brand bg-Orangee flex place-content-between p-4">                            
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark m-0 p-0 bg-Orangee    ">
+                          <div class="navbar-brand  flex  place-content-between  content-center items-center ">                    
                             <Logo class="px-2"  />
                             <LogoTerrain class="px-2" to="/terrains" />
                             <LogoPartie class="px-2" />

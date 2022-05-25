@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="bg-Noirr text-Blancc">
     <h1 class="text-4xl text-center pb-10">Mentions légales</h1>
       <p class="px-16">Mentions légales
   Propriétaire du site Time2Match (mentions légales) <br>
