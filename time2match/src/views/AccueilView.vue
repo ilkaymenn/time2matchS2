@@ -13,6 +13,7 @@
     <div class="flex justify-end">
       <barre_orange />
     </div>
+    <p class="text-white"> git test </p>
   </div>
 
   
