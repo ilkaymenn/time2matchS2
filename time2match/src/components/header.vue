@@ -1,5 +1,3 @@
-
-
 <template>
     <div class="container bg-Noirr text-Blancc">
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -40,8 +38,3 @@ import LogoSeco from './components/menu/logo-seco.vue';
 
 
 </script>
-
-
-<style>
-@import './assets/styles.css';
-</style>
