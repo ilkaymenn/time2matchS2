@@ -1,6 +1,6 @@
 <template>
-  <div class="container bg-Noirr ">                 
-    <p class="text-white">test meldryck pour  ilkay</p>
+  <div class="container ">                 
+   <img src="./public/Img/barreb.svg" alt="Barres blanche">
   </div>
 </template>
 
@@ -13,6 +13,7 @@ export default {
 
     }
   },
+  
 };
 
 </script>
