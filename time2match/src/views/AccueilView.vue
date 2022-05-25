@@ -4,16 +4,29 @@
   <entete/>
 
   <div>
-    <barre_blanche />
+    <div class="flex  justify-between -z-50">
+       <barre_blanche />
+
+       <user class="  m-5 mt-7" />
+     </div>  
+
+    <div class="flex justify-end">
+      <barre_orange />
+    </div>
   </div>
+
   
 
-  <user/>
+
+  
+  
+
+  
  
 
   
 
-  <barre_orange class=" bg-indigo-800"/>
+  
   
 
 </div>
